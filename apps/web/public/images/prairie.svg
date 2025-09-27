@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eff6ff" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="420" fill="url(#grad3)" rx="40" />
+  <text x="50" y="210" font-family="'Playfair Display', serif" font-size="70" fill="#1e3a8a">Prairie Roots</text>
+  <text x="50" y="280" font-family="Inter, sans-serif" font-size="24" fill="#1e3a8a" opacity="0.7">Drought-wise grain co-op</text>
+</svg>

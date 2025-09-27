@@ -1,0 +1,14 @@
+/node_modules
+/apps/*/node_modules
+/packages/*/node_modules
+/dist
+/apps/*/dist
+/packages/*/dist
+.env
+.env.local
+.DS_Store
+coverage
+.vscode
+*.log
+pnpm-lock.yaml
+yarn.lock
